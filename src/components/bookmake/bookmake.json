@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_bookmake_bookmakes",
+  "info": {
+    "displayName": "Bookmake"
+  },
+  "options": {},
+  "attributes": {
+    "date": {
+      "type": "date",
+      "required": true
+    }
+  }
+}

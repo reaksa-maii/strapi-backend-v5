@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_book_books",
+  "info": {
+    "displayName": "Book"
+  },
+  "options": {},
+  "attributes": {
+    "tetst": {
+      "type": "string",
+      "required": true
+    },
+    "discription": {
+      "type": "string",
+      "required": true
+    },
+    "cover": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
